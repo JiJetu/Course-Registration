@@ -1,7 +1,10 @@
 - # 3 Project features:
-    - User can add Courses and selected data will show in course name section.
-    - Website will define how many credit hour remaining & total prices of the course.
-    - Used JSON data without using manual data
+    - ## Listed added Courses
+        - User can add Courses and selected data will show in course name section.
+    - ## Remaining credit section
+        - Website will define how many credit hour remaining & total prices of the course.
+    - ## Using JSON(fake) data
+        - Used JSON data without using manual data.
 
 - # The state in assignment:
     - useState store a list of courses as an array so that i can use array method as i use 'find'.
